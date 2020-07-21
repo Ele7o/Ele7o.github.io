@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-Fanpage của Kuro
+## Chào Mừng Tới Blog Post Của KuroTeam
+![Image](./images/KuroTeam.jpg)
+Fanpage của Kuro [Link](https://www.facebook.com/AGTranslationteam)
 
 ### Markdown
 
