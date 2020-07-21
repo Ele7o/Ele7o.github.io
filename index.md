@@ -4,8 +4,8 @@
 
 
 ## List Truyện Của Team KuroTeam
-Manga | Link
+First Header | Second Header
 ------------ | -------------
-![Image](https://ele7o.github.io/Images/Sakurai.jpeg) |[Link](https://otakusan.net/manga-detail/28537/sakurai-san-wa-kizuite-hoshii)
-![Image](https://ele7o.github.io/Images/Sakurai.jpeg) | [Link](https://otakusan.net/manga-detail/28537/sakurai-san-wa-kizuite-hoshii)
- 
+sakurai-san-wa-kizuite-hoshii | Content from cell 2
+Content in the first column | Content in the second column
+![Image](https://ele7o.github.io/Images/Sakurai.jpeg) [Link](https://otakusan.net/manga-detail/28537/sakurai-san-wa-kizuite-hoshii)
