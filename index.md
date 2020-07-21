@@ -1,8 +1,8 @@
 ## Chào Mừng Tới Blog Post Của KuroTeam
 ![Image](https://ele7o.github.io/Images/KuroTeam.jpg)
-Fanpage của Kuro [Đường Link](https://www.facebook.com/AGTranslationteam)
+###Fanpage của Kuro [Đường Link](https://www.facebook.com/AGTranslationteam)
 
-### Markdown
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -32,4 +32,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
