@@ -1,5 +1,5 @@
 ## Chào Mừng Tới Blog Post Của KuroTeam
-![Image](.Images/KuroTeam.jpg)
+![Image](./KuroTeam.jpg)
 Fanpage của Kuro [Link](https://www.facebook.com/AGTranslationteam)
 
 ### Markdown
