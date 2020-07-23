@@ -3,4 +3,3 @@
 ###Fanpage của Kuro [Đường Link](https://www.facebook.com/AGTranslationteam)
 
 
-## Thịnh là một thằng đầu buồi rẻ rách
