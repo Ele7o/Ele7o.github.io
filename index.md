@@ -3,6 +3,6 @@
 ###Fanpage của Kuro [Đường Link](https://www.facebook.com/AGTranslationteam)
 
 ## Ongoing Project
-[Link](https://ele7o.github.io/LyftPJ.md)
+[Link](https://ele7o.github.io/LyftPJ)
 ## Poster 
 
