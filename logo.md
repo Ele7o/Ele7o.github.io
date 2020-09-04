@@ -1,4 +1,4 @@
-# Logo đã làm
+# Logo project finished and on-going
 ## Logo and sticker ROY fruit shop
 ![Image](https://ele7o.github.io/Images/Logo/IMG_4039.JPG)
 ![Image](https://ele7o.github.io/Images/Logo/IMG_4044(2).PNG)
