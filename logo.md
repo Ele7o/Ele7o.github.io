@@ -4,3 +4,5 @@
 ![Image](https://ele7o.github.io/Images/Logo/IMG_4044(2).PNG)
 ## Logo team manga
 ![Image](https://ele7o.github.io/Images/Logo/0.2.jpeg)
+## Logo team manga first version
+![Image](https://ele7o.github.io/Images/Logo/LOGO.jpeg)
